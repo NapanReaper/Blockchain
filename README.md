@@ -1,5 +1,4 @@
 # Blockchain
-Run in terminal
 
 Install packages:
 ## npm install
